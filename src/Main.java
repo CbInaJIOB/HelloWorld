@@ -2,6 +2,13 @@ public class Main {
 
     public static void main(String[] args) {
 
+
+        System.out.println("Hello World!");
+
+        System.out.println("Привет МИР!");
+
+        System.out.println("Я изучаю JAVA");
+      
 //1
         var dog = 8.0;
         var cat = 3.6;
@@ -63,5 +70,8 @@ public class Main {
         var peopleNew = people + 94;
         var hourNew = peopleNew * 8;
         System.out.println("Если в компании работает " + peopleNew + " человек, то всего " + hourNew + " часов работы может быть поделено между сотрудниками");
+
+        }
+
     }
 }
