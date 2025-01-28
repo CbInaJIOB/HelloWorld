@@ -8,7 +8,8 @@ public class Main {
         System.out.println("Привет МИР!");
 
         System.out.println("Я изучаю JAVA");
-      
+        
+//Переменные(HW2)
 //1
         var dog = 8.0;
         var cat = 3.6;
@@ -71,7 +72,8 @@ public class Main {
         var hourNew = peopleNew * 8;
         System.out.println("Если в компании работает " + peopleNew + " человек, то всего " + hourNew + " часов работы может быть поделено между сотрудниками");
 
-        }
+//
 
-    }
+        
+        }
 }
