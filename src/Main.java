@@ -68,7 +68,7 @@ public class Main {
         var hourNew = peopleNew * 8;
         System.out.println("Если в компании работает " + peopleNew + " человек, то всего " + hourNew + " часов работы может быть поделено между сотрудниками");
 
-//
+
 
         
         }
